@@ -1,2 +1,2 @@
-# big-int
-Big int implementation in c++
+# Big int
+BigInt class for mathematical operations with very large numbers
